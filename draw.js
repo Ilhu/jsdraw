@@ -8,7 +8,6 @@ function draw() {
     ellipse(mouseX, mouseY, paksuus, paksuus);
     fill(0);
   }
-  text(sentence, 10, 30);
 }
 
 
