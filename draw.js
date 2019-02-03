@@ -1,9 +1,6 @@
 var paksuus = 2
-var sentence = "left arrow = clear, up and down arrow = thickness."
 function setup() {
   createCanvas(840, 600);
-  textSize(32);
-  text(sentence, 10, 30);
 }
 
 function draw() {
